@@ -46,7 +46,6 @@ const Account = () => {
 
   const [title,setTitle] = useState('');
 
-//   const [price,setPrice] = useState(0);
 
   const [rating,setRating] = useState('');
 

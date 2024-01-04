@@ -6,7 +6,7 @@ import Home from './screens/Home';
 
 import Account from './screens/Account';
 
-import Search from './screens/ProductDetails';
+
 
 import { NavigationContainer } from '@react-navigation/native'
 
